@@ -7,10 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start" : "webpack-dev-server --port 8080"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.kdc.capitalone.com/fio/automatic-rotary-phone"
-  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
